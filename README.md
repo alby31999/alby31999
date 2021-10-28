@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alby31999
+- 👀 I’m interested in numerical analysis and optimization
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me albert.tres "at" berkeley.edu
